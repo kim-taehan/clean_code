@@ -9,3 +9,6 @@
 > 함수는 한 가지를 해야한다. 그 한 가지를 잘 해야 한다. 그 한 가지만을 해야 한다.
 ### [4장 수석](src/main/java/org/developx/clean_code/part4_comment)
 > 주석은 나쁜 코드를 보완하지 못한다.
+### [5장 형식 맞추기](src/main/java/org/developx/clean_code/part5_형식_맞추기)
+> 내 코드를 하나의 신문기사로 프로그래머랑는 구독자가 읽기 쉽게 작성하자
+
