@@ -15,4 +15,4 @@
 >
 ### [7장 예외처리](src/main/java/org/developx/clean_code/part7_exception)
 > 
-### [7장 경계](src/main/java/org/developx/clean_code/part8_boundary)
+### [8장 경계](src/main/java/org/developx/clean_code/part8_boundary)
