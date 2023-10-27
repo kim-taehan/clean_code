@@ -27,3 +27,5 @@
 > 깔끔한 시스템을 만들려면 단 몇 줄이라도 중복을 제거하겠다는 의지가 필요
 ### [13장 동시성](src/main/java/org/developx/clean_code/part13_concurrency)
 > 동시성은 결합을 없애는 전략이다. 즉 무엇과 언제를 분리하는 전략이다. 
+### [14장 점진적인 개선](src/main/java/org/developx/clean_code/part14_%EC%A0%90%EC%A7%84%EC%A0%81%EC%9D%B8_%EA%B0%9C%EC%84%A0)
+> 깨끗한 코드를 짜려면 먼저 지저분한 코드를 짠 뒤에 정리해야 한다.
