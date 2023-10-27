@@ -17,3 +17,4 @@
 ### [9장 단위 테스트](src/main/java/org/developx/clean_code/part9_unit_test)
 ### [10장 클래스](src/main/java/org/developx/clean_code/part10_class)
 ### [11장 시스템](src/main/java/org/developx/clean_code/part11_system)
+### [12장 창발성](src/main/java/org/developx/clean_code/part12_%EC%B0%BD%EB%B0%9C%EC%84%B1)
