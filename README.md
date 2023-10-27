@@ -12,9 +12,8 @@
 ### [5장 형식 맞추기](src/main/java/org/developx/clean_code/part5_형식_맞추기)
 > 내 코드를 하나의 신문기사로 프로그래머랑는 구독자가 읽기 쉽게 작성하자
 ### [6장 객체와 자료 구조](src/main/java/org/developx/clean_code/part6_%EC%9E%90%EB%A3%8C_%EC%B6%94%EC%83%81%ED%99%94)
->
 ### [7장 예외처리](src/main/java/org/developx/clean_code/part7_exception)
->
 ### [8장 경계](src/main/java/org/developx/clean_code/part8_boundary)
 ### [9장 단위 테스트](src/main/java/org/developx/clean_code/part9_unit_test)
 ### [10장 클래스](src/main/java/org/developx/clean_code/part10_class)
+### [11장 시스템](src/main/java/org/developx/clean_code/part11_system)
