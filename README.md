@@ -28,4 +28,7 @@
 ### [13장 동시성](src/main/java/org/developx/clean_code/part13_concurrency)
 > 동시성은 결합을 없애는 전략이다. 즉 무엇과 언제를 분리하는 전략이다. 
 ### [14장 점진적인 개선](src/main/java/org/developx/clean_code/part14_%EC%A0%90%EC%A7%84%EC%A0%81%EC%9D%B8_%EA%B0%9C%EC%84%A0)
-> 깨끗한 코드를 짜려면 먼저 지저분한 코드를 짠 뒤에 정리해야 한다.
+> 코드는 언제나 최대한 깔끔하고 단순하게 정리하자 절대로 썩어가게 방치하면 안 된다.
+### [15장 jUnit 프레임워크](src/main/java/org/developx/clean_code/part15_junit)
+> 리펙토링은 코드가 어느 수준에 이를때까지 수많은 시행착오를 반복하는 작업이다.
+### [17장 냄새와 휴리스틱](src/main/java/org/developx/clean_code/part17_냄새와_휴리스틱)
