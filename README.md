@@ -31,4 +31,4 @@
 > 코드는 언제나 최대한 깔끔하고 단순하게 정리하자 절대로 썩어가게 방치하면 안 된다.
 ### [15장 jUnit 프레임워크](src/main/java/org/developx/clean_code/part15_junit)
 > 리펙토링은 코드가 어느 수준에 이를때까지 수많은 시행착오를 반복하는 작업이다.
-### [17장 냄새와 휴리스틱](src/main/java/org/developx/clean_code/part17_냄새와_휴리스틱)
+### [17장 냄새와 휴리스틱](src/main/java/org/developx/clean_code/part17_%EB%83%84%EC%83%88%EC%99%80_%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1)
